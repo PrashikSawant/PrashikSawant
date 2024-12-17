@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently learning about Data Science and also trying to graps new skills.
+🌱 I’m currently learning about Data Science and also trying to graps new skills.<br>
 📫 How to reach me: prashiksawant47@gmail.com
