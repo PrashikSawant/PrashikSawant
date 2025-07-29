@@ -191,15 +191,6 @@ mindmap
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  
-![Snake animation](https://github.com/PrashikSawant/PrashikSawant/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
 
 ## 📫 Let's Connect!
 
