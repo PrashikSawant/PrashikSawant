@@ -19,8 +19,8 @@
 
 Driven Data Science & AI/ML Specialist with expertise in **statistical analysis**, **machine learning**, and **predictive modeling**. I transform raw data into actionable business insights and excel at building data pipelines, training models, and presenting complex findings in a clear, impactful manner.
 
-- 🔭 I'm currently working on **Advanced ML Models & Data Pipelines**
-- 🌱 I'm currently expanding into **Deep Learning & AI**
+- 🔭 I'm currently learning more about **Advanced ML Models & Data Pipelines**
+- 🌱 I'm currently expanding my knowledge in **Deep Learning & AI**
 - 👯 I'm looking to collaborate on **Data Science & Machine Learning Projects**
 - 💬 Ask me about **Python, SQL, Machine Learning, Data Analysis, Power BI**
 - 📫 How to reach me: **prashiksawant@gmail.com**
@@ -52,7 +52,6 @@ Driven Data Science & AI/ML Specialist with expertise in **statistical analysis*
 
 ### Database & Tools
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
@@ -72,9 +71,10 @@ Driven Data Science & AI/ML Specialist with expertise in **statistical analysis*
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrashikSawant&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
+<!--
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrashikSawant&theme=radical" alt="GitHub Streak"/>
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrashikSawant&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
