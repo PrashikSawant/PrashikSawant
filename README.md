@@ -71,10 +71,9 @@ Driven Data Science & AI/ML Specialist with expertise in **statistical analysis*
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrashikSawant&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
-<!--
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrashikSawant&theme=radical" alt="GitHub Streak"/>
-</div> -->
+</div> 
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrashikSawant&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
